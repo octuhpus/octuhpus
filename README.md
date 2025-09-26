@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @octuhpus
-- 👀 I’m interested in ... Full Stack Engineering
-- 🌱 I’m currently learning ... How to be a better developer
+- 👋 Hi, I’m stephen
+- 👀 I’m interested in ... Automation and Machine Learning
 - 💞️ I’m looking to collaborate on ... Anything and Everything (almost)
 - 📫 How to reach me ... drummondsstephen@gmail.com
 
